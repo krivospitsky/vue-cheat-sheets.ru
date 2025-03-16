@@ -1,6 +1,6 @@
 ---
 title: Шпраргалки по Vue3 и Nuxt
-navigation: false
+# navigation: false
 icon: house
 ---
 
