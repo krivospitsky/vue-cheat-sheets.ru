@@ -1,8 +1,8 @@
 export default defineAppConfig({
   shadcnDocs: {
     site: {
-      name: 'shadcn-docs-nuxt',
-      description: 'Beautifully designed Nuxt Content template built with shadcn-vue. Customizable. Compatible. Open Source.',
+      name: 'vue-cheat-sheets.ru',
+      description: 'Шпаргалки по Vue3 и Nuxt',
     },
     theme: {
       customizable: true,
@@ -10,7 +10,7 @@ export default defineAppConfig({
       radius: 0.5,
     },
     header: {
-      title: 'shadcn-docs-starter',
+      title: 'Шпаргалки по Vue3 и Nuxt',
       showTitle: true,
       darkModeToggle: true,
       logo: {
@@ -20,38 +20,38 @@ export default defineAppConfig({
       nav: [],
       links: [{
         icon: 'lucide:github',
-        to: 'https://github.com/ZTL-UwU/shadcn-docs-nuxt',
+        to: 'https://github.com/krivospitsky/vue-cheat-sheets.ru',
         target: '_blank',
       }],
     },
     aside: {
       useLevel: true,
-      collapse: false,
+      collapse: true,
     },
     main: {
       breadCrumb: true,
       showTitle: true,
     },
     footer: {
-      credits: 'Copyright © 2024',
+      credits: 'Copyright © 2025',
       links: [{
         icon: 'lucide:github',
-        to: 'https://github.com/ZTL-UwU/shadcn-docs-nuxt',
+        to: 'https://github.com/krivospitsky/vue-cheat-sheets.ru',
         target: '_blank',
       }],
     },
     toc: {
       enable: true,
-      title: 'On This Page',
+      title: 'На этой странице',
       links: [{
-        title: 'Star on GitHub',
+        title: 'Звезды на GitHub',
         icon: 'lucide:star',
-        to: 'https://github.com/ZTL-UwU/shadcn-docs-nuxt',
+        to: 'https://github.com/krivospitsky/vue-cheat-sheets.ru',
         target: '_blank',
       }, {
-        title: 'Create Issues',
+        title: 'Создать Issue',
         icon: 'lucide:circle-dot',
-        to: 'https://github.com/ZTL-UwU/shadcn-docs-nuxt/issues',
+        to: 'https://github.com/krivospitsky/vue-cheat-sheets.ru/issues',
         target: '_blank',
       }],
     },
