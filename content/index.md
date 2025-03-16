@@ -1,31 +1,9 @@
 ---
-title: Home
+title: Шпраргалки по Vue3 и Nuxt
 navigation: false
+icon: house
 ---
 
-::hero
----
-announcement:
-  title: 'Release v0.8.21'
-  icon: '🎉'
-  to: https://github.com/ZTL-UwU/shadcn-docs-nuxt/releases/latest
-  target: _blank
-actions:
-  - name: Documentation
-    to: https://shadcn-docs-nuxt.vercel.app/getting-started/introduction
-  - name: GitHub
-    variant: outline
-    to: https://github.com/ZTL-UwU/shadcn-docs-nuxt
-    leftIcon: 'lucide:github'
----
+Добро пожаловать в шпаргалки по Vue3 и Nuxt
 
-#title
-Welcome to shadcn-docs-nuxt
-
-#description
-Beautifully designed Nuxt Content template built with shadcn-vue. :br Customizable. Compatible. Open Source.
-::
-
-::div{class="border rounded-lg shadow-md"}
-  :iframe{src="https://shadcn-docs-nuxt.vercel.app/getting-started/introduction" height="700" width="100%" class="rounded-lg" scrolling="no" frameborder="0"}
-::
+Это не полная дукументация по проектам, а лишь набор шпаргалок, которые помогут вам быстрее понять основные возможности Vue и Nuxt.
