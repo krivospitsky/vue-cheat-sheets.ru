@@ -1,6 +1,6 @@
 title: Директивы
 icon: lucide:folder
-navigation.redirect: /frameworks/vue
+# navigation.redirect: /frameworks/vue
 # navBadges:
 #   - value: New
 #     type: lime
