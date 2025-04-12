@@ -12,6 +12,8 @@ actions:
     to: /vue/description
   - name: NuxtJS
     to: /nuxt
+  - name: Глоссарий
+    to: /glossary
 ---
 
 #title

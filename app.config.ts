@@ -43,17 +43,17 @@ export default defineAppConfig({
     toc: {
       enable: true,
       title: 'На этой странице',
-      links: [{
-        title: 'Звезды на GitHub',
-        icon: 'lucide:star',
-        to: 'https://github.com/krivospitsky/vue-cheat-sheets.ru',
-        target: '_blank',
-      }, {
-        title: 'Создать Issue',
-        icon: 'lucide:circle-dot',
-        to: 'https://github.com/krivospitsky/vue-cheat-sheets.ru/issues',
-        target: '_blank',
-      }],
+      // links: [{
+      //   title: 'Звезды на GitHub',
+      //   icon: 'lucide:star',
+      //   to: 'https://github.com/krivospitsky/vue-cheat-sheets.ru',
+      //   target: '_blank',
+      // }, {
+      //   title: 'Создать Issue',
+      //   icon: 'lucide:circle-dot',
+      //   to: 'https://github.com/krivospitsky/vue-cheat-sheets.ru/issues',
+      //   target: '_blank',
+      // }],
     },
     search: {
       enable: true,
